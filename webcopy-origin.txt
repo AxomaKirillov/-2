@@ -1,0 +1,500 @@
+Uri: https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Crimson+Text:400%2C400i%2C700%2C700i|Nunito+Sans:400%2C400i%2C600%2C700&subset=latin%2Clatin-ext&display=swap&ver=1.8.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfYQhW.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\crimsontext\v19\wlp2gwHKFkZgtmSR3NB0oRJfYQhW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfajhfK_M.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\crimsontext\v19\wlpogwHKFkZgtmSR3NB0oRJfajhfK_M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C1GAtNV.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJX1C1GAtNV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDuNc_LA.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\crimsontext\v19\wlprgwHKFkZgtmSR3NB0oRJfajDqDuNc_LA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UpK_c.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UpK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXvVUg.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5XvVUg.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5XvVUg.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5XvVUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\ubuntu\v21\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\ubuntu\v21\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\s\ubuntu\v21\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://js.stripe.com/v3/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\v3\index.htm
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\index.htm
+Content Type: text/html
+
+Uri: https://juliasteam.com/about-us/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://juliasteam.com/comments/feed/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://juliasteam.com/contact-us/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://juliasteam.com/feed/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://juliasteam.com/sample-page/feed/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\sample-page\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/all-in-one-seo-pack/dist/Lite/assets/table-of-contents.95d0dfce.js?ver=4.9.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\all-in-one-seo-pack\dist\Lite\assets\table-of-contents.95d0dfce.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.14
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\coblocks\dist\js\coblocks-animation.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/coblocks/dist/style-coblocks-1.css?ver=3.1.14
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\coblocks\dist\style-coblocks-1.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/coblocks/dist/style-coblocks-animation.css?ver=2677611078ee87eb3b1c
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\coblocks\dist\style-coblocks-animation.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/coblocks/dist/style-coblocks-extensions.css?ver=3.1.14
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\coblocks\dist\style-coblocks-extensions.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\coblocks\includes\Dependencies\GoDaddy\Styles\build\latest.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/css/public.min.css?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\css\public.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/js/public.min.js?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\js\public.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/bootstrap-grid/bootstrap-grid.min.css?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\bootstrap-grid\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/css/font-awesome.min.css?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/swiper-js/swiper.min.css?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\swiper-js\swiper.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/gs-testimonial/assets/libs/swiper-js/swiper.min.js?ver=3.3.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\gs-testimonial\assets\libs\swiper-js\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint-payments-stripe/public/javascripts/latepoint-payments-stripe.js?ver=1.2.3
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint-payments-stripe\public\javascripts\latepoint-payments-stripe.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint-payments-stripe/public/stylesheets/latepoint-payments-stripe-front.css?ver=1.2.3
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint-payments-stripe\public\stylesheets\latepoint-payments-stripe-front.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/fonts/latepoint-regular.woff2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\fonts\latepoint-regular.woff2
+Content Type: font/woff2
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/fonts/latepoint-semibold.woff2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\fonts\latepoint-semibold.woff2
+Content Type: font/woff2
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/apple-logo-compact.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\apple-logo-compact.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/google-logo-compact.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\google-logo-compact.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/intl-tel-input/flags.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\intl-tel-input\flags.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/intl-tel-input/flags@2x.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\intl-tel-input\flags@2x.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/location-image.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\location-image.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/office-365-logo-compact.jpg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\office-365-logo-compact.jpg
+Content Type: image/jpeg
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/images/outlook-logo-compact.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\images\outlook-logo-compact.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/javascripts/front.js?ver=5.1.93
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\javascripts\front.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/javascripts/vendor-front.js?ver=5.1.93
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\javascripts\vendor-front.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/latepoint/public/stylesheets/front.css?ver=5.1.93
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\latepoint\public\stylesheets\front.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/modal-block/dist/blocks.style.build.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\modal-block\dist\blocks.style.build.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/modal-block/dist/modal.js?ver=1698657701
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\modal-block\dist\modal.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/css/simplegrid.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\css\simplegrid.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/css/star-fonts.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\css\star-fonts.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/css/styles.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\css\styles.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/fonts/premio-star.eot?yuqk07
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\fonts\premio-star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/fonts/premio-star.svg?yuqk07
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\fonts\premio-star.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/fonts/premio-star.ttf?yuqk07
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\fonts\premio-star.ttf
+Content Type: font/ttf
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/fonts/premio-star.woff?yuqk07
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\fonts\premio-star.woff
+Content Type: font/woff
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/js/grid.js?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\js\grid.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/stars-testimonials-with-slider-and-masonry-grid/js/read-more.js?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\stars-testimonials-with-slider-and-masonry-grid\js\read-more.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.9.5.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\css\frontend\modern\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js?ver=1.9.5.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\js\frontend\fields\address.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js?ver=1.9.5.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms-modern.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.9.5.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.9.5.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\js\share\utils.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.inputmask.min.js?ver=5.0.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\lib\jquery.inputmask.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/themes/go-child/i/geo.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go-child\i\geo.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go-child/i/next.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go-child\i\next.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go-child/i/prev.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go-child\i\prev.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go-child/i/stars.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go-child\i\stars.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go-child/style.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go-child\style.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/css/design-styles/style-traditional.min.css?ver=1.8.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\css\design-styles\style-traditional.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/css/style-shared.min.css?ver=1.8.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\css\style-shared.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/images/arrow-paginator.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\images\arrow-paginator.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/images/checkbox-checked.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\images\checkbox-checked.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/images/checkbox.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\images\checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/images/error-icon.svg
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\images\error-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://juliasteam.com/wp-content/themes/go/dist/js/frontend.min.js?ver=1.8.0
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\dist\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-content/themes/go/style.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\themes\go\style.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/cropped-woman-180x180.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\cropped-woman-180x180.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/cropped-woman-192x192.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\cropped-woman-192x192.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/cropped-woman-32x32.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\cropped-woman-32x32.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/woman-1024x785.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\woman-1024x785.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/woman-300x230.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\woman-300x230.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/woman-768x589.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\woman-768x589.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/03/woman.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\03\woman.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-content/uploads/2022/11/JuliastReam.png
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-content\uploads\2022\11\JuliastReam.png
+Content Type: image/png
+
+Uri: https://juliasteam.com/wp-includes/css/dist/components/style.min.css?ver=6.9
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-includes\css\dist\components\style.min.css
+Content Type: text/css
+
+Uri: https://juliasteam.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://juliasteam.com/wp-json/
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2F
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2F&format=xml
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2Fabout-us%2F
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2Fcontact-us%2F
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjuliasteam.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://juliasteam.com/wp-json/wp/v2/pages/171
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\wp\v2\pages\171
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/wp/v2/pages/186
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\wp\v2\pages\186
+Content Type: application/json
+
+Uri: https://juliasteam.com/wp-json/wp/v2/pages/2
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://juliasteam.com/xmlrpc.php?rsd
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://stats.wp.com/e-202603.js
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\e-202603.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=685036603593879&ev=PageView&noscript=1
+File Name: C:\Users\q9989\Desktop\копия 2\juliasteam.com\tr
+Content Type: text/plain
+
