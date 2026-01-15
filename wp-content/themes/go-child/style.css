@@ -1,0 +1,436 @@
+﻿/**
+ * Theme Name:     Go Child
+ * Author:         GoDaddy
+ * Template:       go
+ * Text Domain:	   go-child
+ * Description:    Go is an innovative, Gutenberg-first WordPress theme, hyper-focused on empowering makers to build beautifully rich websites with WordPress.
+ */
+@import url('../../../css2');
+
+:root {
+    --go--font-family: 'Ubuntu', sans-serif;
+	--go-heading--font-family: 'Ubuntu', sans-serif !important;
+	--go-heading--font-family: 'Ubuntu', sans-serif !important;
+	--go-site-title--color--text: #FED66D !important;
+	--go-site-title--font-weight: 700;
+	--go-navigation--font-weight: 500 !important;
+	--go--line-height: 2em !important;
+	--go-site-title--text-transform: uppercase;
+	--go-navigation--text-transform: uppercase;
+	--go-navigation--font-size: 12px !important;
+	--go-site-title--font-size: 24px !important;
+	--go--max-width: 1100px !important;
+	--go--font-size: 12px !important;
+	--go--font-weight: 500 !important;
+	--go-quote--font-size: 12px;
+	--go-heading--margin-bottom: 1rem;
+}
+body, .wp-block-quote p, .site-title {
+	font-family: 'Ubuntu', sans-serif !important;
+	font-weight: 500;
+}
+h1, h2, h3, h4 {
+	font-weight: 700 !important;
+}
+h1 {
+	font-size: 40px !important;
+	text-transform: uppercase;
+	line-height: 46px !important;
+}
+h2 {
+	font-size: 24px !important;
+	font-weight: 700;
+	line-height: 28px;
+	text-transform: uppercase;
+	margin-bottom: 1rem !important;
+}
+.hide-desk {
+	display: none;
+}
+.site-title {
+	font-weight: 700;
+	color: #FED66D;
+}
+.header__inner.w-full {
+    max-width: 1100px;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.has-header-7 .header__navigation {
+	margin-top: 0;
+}
+.header__search-toggle {
+	display: none;
+}
+.has-header-7 .site-header .social-icons-container:after {
+	content: none !important;
+}
+.has-header-7 .site-header .social-icons-container {
+    margin: 0 !important;
+}
+.wp-block-quote {
+	margin: 30px auto !important;
+}
+.bg-blue-gradient {
+	background: linear-gradient(90deg, #C8DDE7 25.49%, #DCE8D7 73.44%, #DAE9EA 100%);
+}
+.s1 {
+	position: relative;
+	height: 444px !important;
+	padding-top: 75px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+}
+.s1-img img {
+    position: absolute;
+    top: auto;
+    bottom: -38px;
+    left: auto;
+    height: 90% !important;
+    right: 107px;
+    width: auto !important;
+    z-index: 100;
+}
+.Location label {
+    display: none;
+}
+#geomashupsearchwidget-2-input {
+    height: 44px;
+    width: 200px;
+    float: left;
+    border-radius: 10px 0 0 10px;
+    margin-bottom: 0;
+    border: 0;
+    color: #404F5C;
+	padding-left: 36px;
+	background: #fff url('i/geo.svg') 22px center no-repeat;
+}
+.geo-mashup-search-form .submit {
+    text-align: center;
+    float: left;
+}
+.geo-mashup-search-form .object, .geo-mashup-search-form .radius, .geo-mashup-search-form .submit {
+    padding-top: 0 !important;
+}
+.button, .wp-block-button__link {
+    height: 44px;
+    min-width: 200px;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    font-size: 12px !important;
+	line-height: 21px !important;
+    color: #404F5C !important;
+    display: block;
+    border: 1.5px solid #FED66D;
+	transition: all 0.3s;
+}
+.button:hover, .wp-block-button__link:hover {
+	border: 1.5px solid #404F5C;
+	transition: all 0.3s;
+	background: #FED66D !important;
+}
+.text-center {
+	text-align: center !important;
+}
+.mb0 {
+    margin-bottom: 0;
+}
+.mt0 {
+	margin-top: 0 !important;
+}
+.mb50 {
+    margin-bottom: 50px;
+}
+.s2 #amelia-container {
+    margin: 0 auto !important;
+}
+@media screen and (max-width: 801px) {
+	.hide-table {
+		display: none;
+	}
+	.s1 {
+		padding-top: 45px;
+		padding-right: 50px;
+		padding-left: 50px
+	}
+	.s1-img img {
+    	bottom: -38px;
+    	height: 60% !important;
+    	right: 5px;
+		z-index: 90;
+	}
+}
+.text-bg-padding {
+	padding: 80px !important;
+}
+.bg-block_inner {
+	max-width: 820px !important;
+	margin: auto;
+}
+.contact-table__c1 {
+    max-width: 25px !important;
+}
+.site-footer--2 .footer-navigation {
+    text-align: center !important;
+	position: relative;
+	align-self: flex-end;
+    padding-left: 10%;
+}
+nav.footer-navigation.text-sm::before {
+    content: url(../../uploads/2022/11/JuliastReam.png);
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.site-footer--2 .site-info {
+	display: none;
+}
+.site-footer--2.site-footer {
+	padding-bottom: 24px !important;
+}
+.site-footer--2.site-footer .social-icons svg {
+	fill: #fff;
+}
+@media screen and (max-width: 601px) {
+	.hide-mobile {
+		display: none;
+	}
+	.alignwide {
+		width: 100% !important;
+	}
+	h1 {
+		font-size: 30px !important;
+		text-transform: uppercase;
+		line-height: 34px !important;
+	}
+	header#site-header {
+		background: linear-gradient(90deg, #C8DDE7 25.49%, #DCE8D7 73.44%, #DAE9EA 100%);
+	}
+	.header .header__titles {
+		justify-content: left !important;
+		text-align: left !important;
+	}
+	.site-title {
+		color: #fff !important;
+		text-align: left;
+	}
+	.header__extras {
+		margin-left: -1rem;
+	}
+	.s1 {
+		padding-top: 50px;
+		padding-right: 40px;
+		padding-left: 40px;
+		border-bottom: 1.5px solid #404F5C;
+	}
+	.s1 h1 {
+		margin-bottom: 15px !important;
+	}
+	.s1-img img {
+		bottom: -18px;
+		height: 56% !important;
+		right: 22px;
+		z-index: 90;
+	}
+	.mob-text-left {
+		text-align: left !important;
+	}
+	.mob-m20 {
+		margin-bottom: 20px !important;
+	}
+	.text-bg-padding {
+		padding: 0 !important;
+	}
+	.text-bg-padding h2 {
+		padding: 40px;
+		margin-bottom: 0 !important;
+		background: linear-gradient(90deg, #C8DDE7 25.49%, #DCE8D7 73.44%, #DAE9EA 100%);
+	}
+	.bg-block_inner {
+		padding: 40px !important;
+	}
+	nav.footer-navigation.text-sm::before {
+    	content: "";
+	}
+	.site-footer--2 .footer-navigation {
+    	text-align: left !important;
+		padding-left: 0 !important;
+	}
+	.site-footer--2 .site-footer__inner {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+	.site-footer--2.site-footer .social-icons {
+		max-width: 55px;
+		margin-top: 0rem;
+	}
+	.site-footer--2 .footer-navigation a {
+		color: #404F5C !important;
+	}
+	.site-footer--2.site-footer .social-icons svg {
+		fill: #404F5C;
+	}
+	.site-footer--2::after {
+    content: "JULIASTREAM INC. IS A LIMITED COMPANY REGISTERED IN USA WITH COMPANY REGISTRATION NUMBER 10755230";
+    max-width: 270px;
+    margin: 50px auto 0 !important;
+    font-size: 8px;
+    line-height: 9px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    font-feature-settings: 'kern' off;
+    color: #404F5C;
+    text-align: center !important;
+}
+}
+
+/* Testimonials */
+.testimonial-block {
+	max-width: 612px;
+	margin: auto !important;
+}
+.testimonial-block .testimonial-box {
+    padding: 40px 85px !important;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: left;
+    background: #fff;
+    align-items: flex-end;
+    height: 400px;
+    align-content: flex-end;
+	position: relative;
+}
+.testimonial-block .gs_testimonial_container .cycle-nav {
+    left: -74px;
+    width: calc(100% + 148px);
+    height: 32px;
+	display: block !important;
+}
+.testimonial-block .gs_testimonial_container .cycle-nav #prev, .testimonial-block .gs_testimonial_container .cycle-nav #next {
+    height: 32px;
+    width: 32px;
+    background: url(i/prev.svg) 8px no-repeat;
+    border: 1.8px solid #404f5c !important;
+    border-radius: 90%;
+}
+.testimonial-block .gs_testimonial_container .cycle-nav #next {
+	background: url(i/next.svg) center no-repeat;
+}
+.testimonial-block .testimonial-box p, .testimonial-block .testimonial-box h3 {
+	color: #404f5c !important;
+	text-align: left;
+}
+.testimonial-block .testimonial-box h3 {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28px;
+	text-transform: uppercase;
+	padding-bottom: 40px;
+}
+.testimonial-block .testimonial-box p {
+	font-size: 14px;
+}
+.testimonial-block .testimonial-box .box-content {
+    padding-top: 40px;
+}
+.testimonial-block .testimonial-box::before {
+	content: url('i/stars.svg');
+	position: absolute;
+	right: 85px;
+	left: auto;
+	top: 47px;
+}
+@media screen and (max-width: 601px) {
+	.testimonial-block .testimonial-box {
+		padding: 20px 35px !important;
+		height: 250px;
+	}
+	.testimonial-block .testimonial-box h3 {
+		padding-bottom: 30px;
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.testimonial-block .testimonial-box::before {
+		right: 35px;
+		top: 30px;
+	}
+	.testimonial-block .gs_testimonial_container .cycle-nav {
+		left: 10px;
+		width: calc(100% - 20px);
+		height: 15px;
+	}
+	.testimonial-block .gs_testimonial_container .cycle-nav #prev, .testimonial-block .gs_testimonial_container .cycle-nav #next {
+		height: 14px;
+		width: 10px;
+		background: url(i/prev.svg) no-repeat;
+		border: none !important;
+		border-radius: 0;
+	}
+	.testimonial-block .gs_testimonial_container .cycle-nav #next {
+		background: url(i/next.svg) no-repeat;
+	}
+}
+/* contact form */
+.step-form {
+    background-color: #fff;
+    padding: 50px;
+    max-width: 820px;
+    margin: auto;
+}
+.step-form > div {
+    max-width: 400px;
+    margin: 10px auto;
+}
+.step-form p, .step-form input, .step-form textarea {
+	margin-bottom: 0 !important;
+}
+.step-form textarea {
+    height: 20px;
+}
+.step-form-button input, .callus-form button {
+    padding: 17px 50px !important;
+    margin: auto !important;
+    font-size: 12px !important;
+    display: block !important;
+    color: #404F5C !important;
+    min-width: 190px !important;
+}
+.step-form-button input:hover, .callus-form button:hover {
+	color: #fff !important;
+}
+input[placeholder], [placeholder], *[placeholder], ::placeholder {
+    color: #404F5C !important;
+}
+@media screen and (max-width:601px) {
+	.step-form {
+		background-color: transparent;
+		padding: 0;
+	}
+	.step-form > div {
+		margin: 12px auto;
+	}
+	.step-form-button input, .callus-form button {
+		width: 100%;
+		border: 2px solid #404F5C !important;
+	}
+}
+.callus-form input {
+    width: 80% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    border: 2px solid #404f5c !important;
+    font-size: 12px !important;
+}
+.callus-form input[placeholder], .callus-form [placeholder], .callus-form *[placeholder], .callus-form ::placeholder {
+    color: #404F5C !important;
+}
+.callus-form .wpforms-field {
+    padding: 5px;
+}
+.callus-form .wpforms-submit-container {
+    padding: 5px;
+    margin-top: 0 !important;
+}
